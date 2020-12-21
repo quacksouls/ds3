@@ -25,7 +25,7 @@ https://www.nexusmods.com/darksouls3/mods/352
 > 
 > As this is obviously quite a glaring issue, along with some other issues (e.g. the elevator desync bug which has also been identified and fixed). I'd like to see this next update public as soon as possible, within safe limits.
 
-There is one type of invasion that PvP Watchdog 1.0.8 does not prevent: the fight with Halflight. If you're playing online and fight Halflight, there is a chance that another player would be summoned as the boss to fight you. This would happen regardless of whether you're in Embered form or not.
+There is one type of invasion that PvP Watchdog 1.0.8 does not prevent: the fight with Halflight. If you're playing online and fight Halflight, there is a chance that another player would be summoned as the boss to fight you. This would happen regardless of whether you're in Embered form or not. Version 1.0.8 also prevents you from being summoned as a Spear of the Church while playing online.
 
 This thread might also help:
 https://steamcommunity.com/app/374320/discussions/0/3896114186163544818/
