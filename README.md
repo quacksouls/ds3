@@ -27,10 +27,6 @@ https://www.nexusmods.com/darksouls3/mods/352
 
 There is one type of invasion that PvP Watchdog 1.0.8 does not prevent: the fight with Halflight. If you're playing online and fight Halflight, there is a chance that another player would be summoned as the boss to fight you. This would happen regardless of whether you're in Embered form or not. Version 1.0.8 also prevents you from being summoned as a Spear of the Church while playing online.
 
-This thread might also help:
-
-https://steamcommunity.com/app/374320/discussions/0/3896114186163544818/
-
 For those who don't want to use PvP Watchdog 1.0.8, refer to this for how to banish invaders:
 
 https://www.reddit.com/r/darksouls3/comments/4getpr/how_to_banish_every_invader_who_crosses_your_path/
@@ -39,6 +35,7 @@ Be at soul and weapon levels that are over or under the recommended levels as de
 
 https://darksouls3.wiki.fextralife.com/Recommended+Level+by+Location
 
-This thread might also help:
+These threads might also help:
 
 https://steamcommunity.com/app/374320/discussions/0/2251181585650206568/
+https://steamcommunity.com/app/374320/discussions/0/3896114186163544818/
