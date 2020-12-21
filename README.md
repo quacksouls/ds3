@@ -9,22 +9,22 @@ For anyone who wants to play online, but don't like being invaded by a random pl
 https://github.com/quacksouls/ds3/releases
 
 Here is the post by the developer LukeYui on 03 April 2020, 6:09PM posted at
-https://www.nexusmods.com/darksouls3/mods/352?tab=posts&BH=0
-[quote=LukeYui]
-I can confirm that 1.0.8 has issues with invasions. In that:
+https://www.nexusmods.com/darksouls3/mods/352
 
-- You can't invade as an Aldrich Faithful.
-- You can't invade as a Watchdog of Farron.
-- You can't be summoned as a Blade of the Darkmoon.
-- You can't summoned as a Way of the Blue.
+> I can confirm that 1.0.8 has issues with invasions. In that:
+> 
+> - You can't invade as an Aldrich Faithful.
+> - You can't invade as a Watchdog of Farron.
+> - You can't be summoned as a Blade of the Darkmoon.
+> - You can't summoned as a Way of the Blue.
+> 
+> - You can't be invaded by Dark Spirits
+> - You can't be invaded by Mad Dark Spirits
+> 
+> The problem has been identified, and we're working on a fix. The beta should be safe, but all beta versions of the mod are strictly "Use at your own risk". I can say from personal experience that I've used the beta and did not receive a ban.
+> 
+> As this is obviously quite a glaring issue, along with some other issues (e.g. the elevator desync bug which has also been identified and fixed). I'd like to see this next update public as soon as possible, within safe limits.
 
-- You can't be invaded by Dark Spirits
-- You can't be invaded by Mad Dark Spirits
-
-The problem has been identified, and we're working on a fix. The beta should be safe, but all beta versions of the mod are strictly "Use at your own risk". I can say from personal experience that I've used the beta and did not receive a ban.
-
-As this is obviously quite a glaring issue, along with some other issues (e.g. the elevator desync bug which has also been identified and fixed). I'd like to see this next update public as soon as possible, within safe limits.
-[/quote]
 There is one type of invasion that PvP Watchdog 1.0.8 does not prevent: the fight with Halflight. If you're playing online and fight Halflight, there is a chance that another player would be summoned as the boss to fight you. This would happen regardless of whether you're in Embered form or not.
 
 This thread might also help:
